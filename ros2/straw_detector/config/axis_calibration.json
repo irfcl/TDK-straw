@@ -1,17 +1,17 @@
 {
-  "robot_angle": 83.46,
-  "axis_offset_m": -0.149,
-  "axis_offset_ratio": 0.35609,
+  "robot_angle": 0.0,
+  "axis_offset_m": 0.0,
+  "axis_offset_ratio": 0.0,
   "aim_center_px": [
-    867.9,
-    541.0
+    665.0,
+    370.3
   ],
   "axis_yaw_deg": 0.0,
-  "depth_calibrated": true,
-  "reference_distance_m": 0.627,
+  "depth_calibrated": false,
+  "reference_distance_m": null,
   "image_width": 1280,
   "source": "realsense",
   "samples": 30,
-  "angle_spread_deg": 0.44,
-  "ratio_spread": 0.00094
+  "angle_spread_deg": 0.62,
+  "ratio_spread": 0.03547
 }
